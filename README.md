@@ -3,7 +3,7 @@
 Edu-Care is a platform for managing scholarships, allowing users to browse, apply for, and review scholarships. The platform also includes functionality for role-based dashboards for users, moderators, and admins.
 
 ---
-
+![Project Screenshot](./assets/edu-care.jpg)
 ## Features
 
 ### Home Page
